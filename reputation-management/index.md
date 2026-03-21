@@ -60,7 +60,7 @@ Review performance data feeds into the dashboards documented in [Reporting and A
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable/)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
