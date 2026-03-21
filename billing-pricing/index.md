@@ -69,7 +69,7 @@ Access to billing configuration is restricted by the role structure outlined in 
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable/)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
