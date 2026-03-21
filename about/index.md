@@ -12,8 +12,8 @@ Isaac built this knowledge base for agency owners who are evaluating GoHighLevel
 
 There is no speculation on this site. Each page covers a specific platform feature based on firsthand use. Where platform capabilities change, pages are updated to reflect current functionality.
 
-For agencies ready to evaluate the platform directly, access starts at the [Overview](overview).
+For agencies ready to evaluate the platform directly, access starts at the [Overview](/white-lable/overview/).
 
 ---
 
-[Disclaimer](legal-info)
+[Disclaimer](/white-lable/legal-info/)
