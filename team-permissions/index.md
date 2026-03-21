@@ -1,5 +1,5 @@
 ---
-title: Team and Permission Controls – March 2026
+title: GoHighLevel Team and Permission Controls – March 2026
 ---
 
 # Team and Permission Controls – March 2026
