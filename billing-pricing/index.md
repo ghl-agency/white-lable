@@ -1,5 +1,5 @@
 ---
-title: Billing and Pricing Management – March 2026
+title: GoHighLevel Billing and Pricing Management – March 2026
 ---
 
 # Billing and Pricing Management – March 2026
