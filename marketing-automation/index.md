@@ -1,5 +1,5 @@
 ---
-title: Marketing Automation and Workflows – March 2026
+title: GoHighLevel Marketing Automation and Workflows – March 2026
 ---
 
 # Marketing Automation and Workflows – March 2026
