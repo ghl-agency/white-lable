@@ -1,5 +1,5 @@
 ---
-title: Branding and Customization – March 2026
+title: GoHighLevel Branding and Customization – March 2026
 ---
 
 # Branding and Customization – March 2026
