@@ -1,5 +1,5 @@
 ---
-title: Appointment Scheduling System – March 2026
+title: GoHighLevel Appointment Scheduling System – March 2026
 ---
 
 # Appointment Scheduling System – March 2026
