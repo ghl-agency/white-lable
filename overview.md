@@ -4,7 +4,7 @@ title: GoHighLevel White Label Overview – March 2026
 
 # GoHighLevel White Label Overview
 
-GoHighLevel White Label is an all-in-one CRM and marketing automation platform that allows agencies to offer a fully branded software solution to their clients. The platform integrates contact management, campaign automation, funnel building, appointment scheduling, and performance reporting into a single system.
+GoHighLevel White Label is an all-in-one CRM and marketing automation platform that allows agencies to offer a [fully branded software solution](https://www.gohighlevel.com/?fp_ref=smetrix28) to their clients. The platform integrates contact management, campaign automation, funnel building, appointment scheduling, and performance reporting into a single system.
 
 Agencies using the White Label version can customize the interface with their own branding, domain, and logo. This enables them to present the software as their own product while managing multiple client accounts from one central location.
 
