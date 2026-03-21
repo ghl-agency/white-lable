@@ -10,11 +10,11 @@ Agencies managing social media content for multiple clients across native platfo
 
 ## Supported Platforms
 
-The social planner connects to the major social platforms used by local and service-based businesses. Connections are configured at the sub-account level for each client managed through [Client Management](client-management).
+The social planner connects to the major social platforms used by local and service-based businesses. Connections are configured at the sub-account level for each client managed through [Client Management](/white-lable/client-management/).
 
 - Facebook Pages and Facebook Groups
 - Instagram Business accounts
-- Google My Business for post scheduling connected to [Reputation Management Tools](reputation-management)
+- Google My Business for post scheduling connected to [Reputation Management Tools](/white-lable/reputation-management/)
 - LinkedIn Company Pages
 - Twitter and TikTok where supported by current API access
 
@@ -32,6 +32,10 @@ Content is created and scheduled inside the platform. Agencies build a publishin
 
 ---
 
+Agencies ready to centralize client social content scheduling inside their white label platform can access the full social planner [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
+---
+
 ## Content Calendar View
 
 The calendar view displays all scheduled content across connected social accounts for each client. Agencies identify publishing gaps, reschedule posts by drag and drop, and maintain consistent cadence without switching between platforms.
@@ -45,7 +49,7 @@ The calendar view displays all scheduled content across connected social account
 
 ## Team Workflow and Approval
 
-Content creation and publishing permissions are controlled through the role structure in [Team and Permission Controls](team-permissions). Agencies configure approval workflows so content is reviewed before it publishes.
+Content creation and publishing permissions are controlled through the role structure in [Team and Permission Controls](/white-lable/team-permissions/). Agencies configure approval workflows so content is reviewed before it publishes.
 
 - Assign content creation to team members without granting publishing access
 - Route posts through an approval step before scheduling
@@ -56,33 +60,31 @@ Content creation and publishing permissions are controlled through the role stru
 
 ## Connection to Platform Operations
 
-The social planner operates alongside every other platform module. Traffic from social posts directed to landing pages built in the [Funnel and Landing Page Builder](funnels-landing-pages) is tracked through [Reporting and Analytics](reporting-analytics). Social engagement that generates leads feeds contact records into [CRM and Pipeline Management](crm-pipelines) and triggers sequences in [Marketing Automation and Workflows](marketing-automation). Appointment availability announcements are scheduled through the planner and connect to the [Appointment Scheduling System](appointment-scheduling). All published content carries the agency brand from [Branding and Customization](branding-customization). Social platform connections are managed through [Integrations and API Capabilities](integrations). Billing for social management service tiers is configured in [Billing and Pricing Management](billing-pricing). AI-assisted caption and content generation is available through [AI Agents](ai-agents).
+The social planner operates alongside every other platform module. Traffic from social posts directed to landing pages built in the [Funnel and Landing Page Builder](/white-lable/funnels-landing-pages/) is tracked through [Reporting and Analytics](/white-lable/reporting-analytics/). Social engagement that generates leads feeds contact records into [CRM and Pipeline Management](/white-lable/crm-pipelines/) and triggers sequences in [Marketing Automation and Workflows](/white-lable/marketing-automation/). Appointment availability announcements are scheduled through the planner and connect to the [Appointment Scheduling System](/white-lable/appointment-scheduling/). All published content carries the agency brand from [Branding and Customization](/white-lable/branding-customization/). Social platform connections are managed through [Integrations and API Capabilities](/white-lable/integrations/). Billing for social management service tiers is configured in [Billing and Pricing Management](/white-lable/billing-pricing/). AI-assisted caption and content generation is available through [AI Agents](/white-lable/ai-agents/).
 
 ---
 
-Agencies ready to centralize client social content scheduling inside their white label platform can access the full social planner [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [AI Agents](ai-agents)
+**Continue to** [AI Agents](/white-lable/ai-agents/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
