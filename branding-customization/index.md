@@ -63,7 +63,7 @@ Agencies integrating third-party tools through [Integrations and API Capabilitie
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable/)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
