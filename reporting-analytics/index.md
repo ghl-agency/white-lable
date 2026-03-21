@@ -22,7 +22,7 @@ Each client sub-account includes a dedicated reporting dashboard. The agency's m
 
 ## Campaign and Automation Reporting
 
-Performance data from workflows built in [Marketing Automation and Workflows](marketing-automation) is tracked at the sequence level. Agencies monitor which automations are performing and which require adjustment without leaving the platform.
+Performance data from workflows built in [Marketing Automation and Workflows](/white-lable/marketing-automation/) is tracked at the sequence level. Agencies monitor which automations are performing and which require adjustment without leaving the platform.
 
 - Track email open rates, click rates, and reply rates per sequence
 - Monitor SMS delivery rates and response rates
@@ -31,9 +31,13 @@ Performance data from workflows built in [Marketing Automation and Workflows](ma
 
 ---
 
+Agencies ready to consolidate client performance reporting inside their white label platform can access the full analytics system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
+---
+
 ## Pipeline and Revenue Reporting
 
-Pipeline data from [CRM and Pipeline Management](crm-pipelines) feeds directly into the reporting environment. Revenue forecasting and deal velocity metrics are available at the sub-account level.
+Pipeline data from [CRM and Pipeline Management](/white-lable/crm-pipelines/) feeds directly into the reporting environment. Revenue forecasting and deal velocity metrics are available at the sub-account level.
 
 - Track total pipeline value by stage
 - Monitor deal velocity and average time to close
@@ -44,7 +48,7 @@ Pipeline data from [CRM and Pipeline Management](crm-pipelines) feeds directly i
 
 ## Appointment and Reputation Reporting
 
-Booking data from the [Appointment Scheduling System](appointment-scheduling) and review data from [Reputation Management Tools](reputation-management) are included in the same reporting environment.
+Booking data from the [Appointment Scheduling System](/white-lable/appointment-scheduling/) and review data from [Reputation Management Tools](/white-lable/reputation-management/) are included in the same reporting environment.
 
 - Track booking volume, show rates, and cancellation rates per calendar
 - Monitor review velocity, average rating, and rating trend over time
@@ -54,39 +58,37 @@ Booking data from the [Appointment Scheduling System](appointment-scheduling) an
 
 ## Funnel and Page Performance
 
-Traffic and conversion data from pages and funnels built in the [Funnel and Landing Page Builder](funnels-landing-pages) is tracked inside the platform. Agencies monitor opt-in rates, page views, and funnel step completion without a separate analytics tool.
+Traffic and conversion data from pages and funnels built in the [Funnel and Landing Page Builder](/white-lable/funnels-landing-pages/) is tracked inside the platform. Agencies monitor opt-in rates, page views, and funnel step completion without a separate analytics tool.
 
 ---
 
 ## Connection to Platform Operations
 
-Reporting data draws from every active platform module. Social content performance from the [Social Planner](social-planner) and conversation data from [AI Agents](ai-agents) contribute to the overall account activity view. Access to reporting dashboards is controlled through [Team and Permission Controls](team-permissions). Client-facing report delivery carries the agency brand from [Branding and Customization](branding-customization). External analytics platforms connect through [Integrations and API Capabilities](integrations). Billing performance across client accounts in [Billing and Pricing Management](billing-pricing) is visible alongside operational metrics in the same environment.
+Reporting data draws from every active platform module. Social content performance from the [Social Planner](/white-lable/social-planner/) and conversation data from [AI Agents](/white-lable/ai-agents/) contribute to the overall account activity view. Access to reporting dashboards is controlled through [Team and Permission Controls](/white-lable/team-permissions/). Client-facing report delivery carries the agency brand from [Branding and Customization](/white-lable/branding-customization/). External analytics platforms connect through [Integrations and API Capabilities](/white-lable/integrations/). Billing performance across client accounts in [Billing and Pricing Management](/white-lable/billing-pricing/) is visible alongside operational metrics in the same environment.
 
 ---
 
-Agencies ready to consolidate client performance reporting inside their white label platform can access the full analytics system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [Team and Permissions](team-permissions)
+**Continue to** [Team and Permissions](/white-lable/team-permissions/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
