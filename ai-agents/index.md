@@ -1,5 +1,5 @@
 ---
-title: AI Agents – March 2026
+title: GoHighLevel AI Agents – March 2026
 ---
 
 # AI Agents – March 2026
