@@ -26,4 +26,4 @@ Nothing on this website constitutes legal, financial, or business advice. Visito
 
 ---
 
-[About](about)
+[About](/white-lable/about/)
