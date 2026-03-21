@@ -15,8 +15,8 @@ Review requests are triggered automatically based on events in the platform. Aft
 - Send review requests via email or SMS immediately after the trigger event
 - Configure multi-step request sequences for contacts who do not respond to the first message
 - Direct contacts to Google, Facebook, or other review platforms through a single-click link
-- Suppress requests for contacts flagged with specific tags in [CRM and Pipeline Management](crm-pipelines)
-- Clone review request sequences across client accounts through [Client Management](client-management)
+- Suppress requests for contacts flagged with specific tags in [CRM and Pipeline Management](/white-lable/crm-pipelines/)
+- Clone review request sequences across client accounts through [Client Management](/white-lable/client-management/)
 
 ---
 
@@ -31,9 +31,13 @@ The platform aggregates incoming reviews from connected platforms into a single 
 
 ---
 
+Agencies ready to systematize review collection and monitoring across all client accounts can access the full reputation management system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
+---
+
 ## Review Response Management
 
-Responses to incoming reviews are managed directly inside the platform. Agencies configure response templates and assign response responsibilities to team members through the role structure in [Team and Permission Controls](team-permissions).
+Responses to incoming reviews are managed directly inside the platform. Agencies configure response templates and assign response responsibilities to team members through the role structure in [Team and Permission Controls](/white-lable/team-permissions/).
 
 - Respond to Google and Facebook reviews without leaving the platform
 - Apply saved response templates for common review scenarios
@@ -44,35 +48,33 @@ Responses to incoming reviews are managed directly inside the platform. Agencies
 
 ## Connection to Platform Operations
 
-Review collection integrates with every relevant module. Appointment completions tracked in the [Appointment Scheduling System](appointment-scheduling) trigger review request workflows built in [Marketing Automation and Workflows](marketing-automation). Pipeline stage changes in [CRM and Pipeline Management](crm-pipelines) initiate post-transaction review sequences.
+Review collection integrates with every relevant module. Appointment completions tracked in the [Appointment Scheduling System](/white-lable/appointment-scheduling/) trigger review request workflows built in [Marketing Automation and Workflows](/white-lable/marketing-automation/). Pipeline stage changes in [CRM and Pipeline Management](/white-lable/crm-pipelines/) initiate post-transaction review sequences.
 
-Review performance data feeds into the dashboards documented in [Reporting and Analytics](reporting-analytics). All review request communications carry the agency brand established in [Branding and Customization](branding-customization). Review request landing pages are built through the [Funnel and Landing Page Builder](funnels-landing-pages). AI-assisted review response drafting is available through [AI Agents](ai-agents). External review platforms connect through [Integrations and API Capabilities](integrations). Review milestone announcements are distributed through the [Social Planner](social-planner). Billing for reputation management service tiers is configured in [Billing and Pricing Management](billing-pricing).
+Review performance data feeds into the dashboards documented in [Reporting and Analytics](/white-lable/reporting-analytics/). All review request communications carry the agency brand established in [Branding and Customization](/white-lable/branding-customization/). Review request landing pages are built through the [Funnel and Landing Page Builder](/white-lable/funnels-landing-pages/). AI-assisted review response drafting is available through [AI Agents](/white-lable/ai-agents/). External review platforms connect through [Integrations and API Capabilities](/white-lable/integrations/). Review milestone announcements are distributed through the [Social Planner](/white-lable/social-planner/). Billing for reputation management service tiers is configured in [Billing and Pricing Management](/white-lable/billing-pricing/).
 
 ---
 
-Agencies ready to systematize review collection and monitoring across all client accounts can access the full reputation management system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [Reporting and Analytics](reporting-analytics)
+**Continue to** [Reporting and Analytics](/white-lable/reporting-analytics/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
