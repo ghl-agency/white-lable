@@ -1,5 +1,5 @@
 ---
-title: Social Planner – March 2026
+title: GoHighLevel Social Planner – March 2026
 ---
 
 # Social Planner – March 2026
