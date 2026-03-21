@@ -65,7 +65,7 @@ Permission controls apply across every platform module. Access to funnel editing
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable/)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
