@@ -10,7 +10,7 @@ Agencies tracking client leads across spreadsheets, email threads, and disconnec
 
 ## Contact Management
 
-The CRM stores all contact records at the sub-account level. Each contact record captures the full interaction history, assigned tags, custom field data, and communication log. Agencies configure the contact database structure once and apply it across all client accounts managed through [Client Management](client-management).
+The CRM stores all contact records at the sub-account level. Each contact record captures the full interaction history, assigned tags, custom field data, and communication log. Agencies configure the contact database structure once and apply it across all client accounts managed through [Client Management](/white-lable/client-management/).
 
 - Create and manage unlimited contact records per sub-account
 - Apply custom fields to capture industry-specific contact data
@@ -27,16 +27,20 @@ Pipelines represent the stages a lead moves through from initial contact to clos
 - Build multiple pipelines per sub-account for different service lines
 - Create custom stage names that match the client's sales process
 - Set monetary values per opportunity for revenue forecasting
-- Move contacts between stages manually or through automated triggers in [Marketing Automation and Workflows](marketing-automation)
-- Assign pipeline opportunities to specific team members through [Team and Permission Controls](team-permissions)
+- Move contacts between stages manually or through automated triggers in [Marketing Automation and Workflows](/white-lable/marketing-automation/)
+- Assign pipeline opportunities to specific team members through [Team and Permission Controls](/white-lable/team-permissions/)
+
+---
+
+Agencies ready to centralize contact and pipeline management across all client accounts can access the full CRM system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
 ---
 
 ## Lead Entry and Source Tracking
 
-Contacts enter the CRM through multiple entry points. Forms and opt-in pages built in the [Funnel and Landing Page Builder](funnels-landing-pages) create contact records automatically. Conversations initiated through [AI Agents](ai-agents) capture lead data and assign it to the correct pipeline. Appointments booked through the [Appointment Scheduling System](appointment-scheduling) generate contact records and pipeline entries without manual input.
+Contacts enter the CRM through multiple entry points. Forms and opt-in pages built in the [Funnel and Landing Page Builder](/white-lable/funnels-landing-pages/) create contact records automatically. Conversations initiated through [AI Agents](/white-lable/ai-agents/) capture lead data and assign it to the correct pipeline. Appointments booked through the [Appointment Scheduling System](/white-lable/appointment-scheduling/) generate contact records and pipeline entries without manual input.
 
-Source tracking identifies which channel generated each contact, supporting the performance data documented in [Reporting and Analytics](reporting-analytics).
+Source tracking identifies which channel generated each contact, supporting the performance data documented in [Reporting and Analytics](/white-lable/reporting-analytics/).
 
 ---
 
@@ -48,35 +52,33 @@ Pipeline data feeds directly into the reporting environment. Agencies track tota
 
 ## Integration With Platform Operations
 
-The CRM operates as the central data layer for the entire platform. Automation sequences in [Marketing Automation and Workflows](marketing-automation) trigger based on CRM events. Review request sequences in [Reputation Management Tools](reputation-management) fire when pipeline opportunities reach the closed stage. Billing events from [Billing and Pricing Management](billing-pricing) update contact records automatically.
+The CRM operates as the central data layer for the entire platform. Automation sequences in [Marketing Automation and Workflows](/white-lable/marketing-automation/) trigger based on CRM events. Review request sequences in [Reputation Management Tools](/white-lable/reputation-management/) fire when pipeline opportunities reach the closed stage. Billing events from [Billing and Pricing Management](/white-lable/billing-pricing/) update contact records automatically.
 
-Branding applied through [Branding and Customization](branding-customization) carries through all client-facing CRM communications. External CRM tools can connect through [Integrations and API Capabilities](integrations). Social engagement tracked through the [Social Planner](social-planner) feeds contact activity data back into the CRM record.
+Branding applied through [Branding and Customization](/white-lable/branding-customization/) carries through all client-facing CRM communications. External CRM tools can connect through [Integrations and API Capabilities](/white-lable/integrations/). Social engagement tracked through the [Social Planner](/white-lable/social-planner/) feeds contact activity data back into the CRM record.
 
 ---
 
-Agencies ready to centralize contact and pipeline management across all client accounts can access the full CRM system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [Funnels and Landing Pages](funnels-landing-pages)
+**Continue to** [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
