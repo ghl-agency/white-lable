@@ -16,13 +16,13 @@ The builder creates single pages and multi-step funnel sequences using a drag-an
 - Create multi-step funnel sequences with conditional routing between steps
 - Apply custom domains to pages and funnels per client sub-account
 - Use pre-built templates or build from blank canvas
-- Clone pages and funnels across client accounts managed through [Client Management](client-management)
+- Clone pages and funnels across client accounts managed through [Client Management](/white-lable/client-management/)
 
 ---
 
 ## Form and Survey Builder
 
-Forms and surveys are built inside the same environment and embedded on pages or deployed as standalone links. Submissions create contact records in [CRM and Pipeline Management](crm-pipelines) and trigger automation sequences in [Marketing Automation and Workflows](marketing-automation) immediately.
+Forms and surveys are built inside the same environment and embedded on pages or deployed as standalone links. Submissions create contact records in [CRM and Pipeline Management](/white-lable/crm-pipelines/) and trigger automation sequences in [Marketing Automation and Workflows](/white-lable/marketing-automation/) immediately.
 
 - Build multi-field forms with conditional logic
 - Create multi-step surveys with branching question paths
@@ -32,9 +32,13 @@ Forms and surveys are built inside the same environment and embedded on pages or
 
 ---
 
+Agencies ready to build and host client lead generation assets inside their white label platform can access the full builder [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
+---
+
 ## Checkout and Order Pages
 
-The builder supports product and service sales pages with integrated checkout. Order forms connect to payment processing and feed transaction data into [Billing and Pricing Management](billing-pricing).
+The builder supports product and service sales pages with integrated checkout. Order forms connect to payment processing and feed transaction data into [Billing and Pricing Management](/white-lable/billing-pricing/).
 
 - Create one-step and two-step order forms
 - Configure order bumps and upsell pages within the funnel sequence
@@ -45,35 +49,33 @@ The builder supports product and service sales pages with integrated checkout. O
 
 ## Connection to Platform Systems
 
-Every page and funnel built in this module connects directly to the rest of the platform. Leads captured through opt-in forms enter [CRM and Pipeline Management](crm-pipelines) and trigger the assigned workflow. Appointments booked through embedded calendar widgets feed the [Appointment Scheduling System](appointment-scheduling). AI chat widgets deployed on landing pages connect through [AI Agents](ai-agents).
+Every page and funnel built in this module connects directly to the rest of the platform. Leads captured through opt-in forms enter [CRM and Pipeline Management](/white-lable/crm-pipelines/) and trigger the assigned workflow. Appointments booked through embedded calendar widgets feed the [Appointment Scheduling System](/white-lable/appointment-scheduling/). AI chat widgets deployed on landing pages connect through [AI Agents](/white-lable/ai-agents/).
 
-Page performance data is tracked in [Reporting and Analytics](reporting-analytics). All pages carry the agency brand established in [Branding and Customization](branding-customization). Access to the builder is controlled through [Team and Permission Controls](team-permissions). External tools connect through [Integrations and API Capabilities](integrations). Review collection sequences triggered after funnel conversions are managed through [Reputation Management Tools](reputation-management). Social traffic directed to funnel pages is scheduled through the [Social Planner](social-planner).
+Page performance data is tracked in [Reporting and Analytics](/white-lable/reporting-analytics/). All pages carry the agency brand established in [Branding and Customization](/white-lable/branding-customization/). Access to the builder is controlled through [Team and Permission Controls](/white-lable/team-permissions/). External tools connect through [Integrations and API Capabilities](/white-lable/integrations/). Review collection sequences triggered after funnel conversions are managed through [Reputation Management Tools](/white-lable/reputation-management/). Social traffic directed to funnel pages is scheduled through the [Social Planner](/white-lable/social-planner/).
 
 ---
 
-Agencies ready to build and host client lead generation assets inside their white label platform can access the full builder [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [Appointment Scheduling](appointment-scheduling)
+**Continue to** [Appointment Scheduling](/white-lable/appointment-scheduling/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
