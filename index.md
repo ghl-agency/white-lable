@@ -1,5 +1,5 @@
 ---
-title: GoHighLevel White Label Overview – March 2026
+title: GoHighLevel GoHighLevel White Label Overview – March 2026
 ---
 
 # GoHighLevel White Label Overview – March 2026
