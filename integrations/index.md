@@ -1,5 +1,5 @@
 ---
-title: Integrations and API Capabilities – March 2026
+title: GoHighLevel Integrations and API Capabilities – March 2026
 ---
 
 # Integrations and API Capabilities – March 2026
