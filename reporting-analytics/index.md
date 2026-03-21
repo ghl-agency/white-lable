@@ -1,5 +1,5 @@
 ---
-title: Reporting and Analytics – March 2026
+title: GoHighLevel Reporting and Analytics – March 2026
 ---
 
 # Reporting and Analytics – March 2026
