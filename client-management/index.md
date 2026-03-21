@@ -22,17 +22,21 @@ Each client operates within a dedicated sub-account. The agency's master account
 
 ## Client Onboarding
 
-New client accounts are provisioned directly from the master account. Agencies configure a standard onboarding template once and apply it to every new client. This includes pre-loaded workflows from [Marketing Automation and Workflows](marketing-automation), pipeline stages from [CRM and Pipeline Management](crm-pipelines), and funnel templates from [Funnel and Landing Page Builder](funnels-landing-pages).
+New client accounts are provisioned directly from the master account. Agencies configure a standard onboarding template once and apply it to every new client. This includes pre-loaded workflows from [Marketing Automation and Workflows](/white-lable/marketing-automation/), pipeline stages from [CRM and Pipeline Management](/white-lable/crm-pipelines/), and funnel templates from [Funnel and Landing Page Builder](/white-lable/funnels-landing-pages/).
 
 Automated onboarding sequences reduce the manual setup time per client. The agency defines the onboarding flow once. The system executes it consistently for every new account.
 
 ---
 
+Agencies ready to centralize client account operations can access the white label client management system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
+---
+
 ## Access and Communication Controls
 
-Client-facing access is configured at the sub-account level. Agencies determine which platform features each client can view and use. This is enforced through the role and permission structure documented in [Team and Permission Controls](team-permissions).
+Client-facing access is configured at the sub-account level. Agencies determine which platform features each client can view and use. This is enforced through the role and permission structure documented in [Team and Permission Controls](/white-lable/team-permissions/).
 
-Client communication within the platform operates under the agency's brand as configured in [Branding and Customization](branding-customization). All automated messages sent through the platform carry the agency's sender identity, not GoHighLevel's.
+Client communication within the platform operates under the agency's brand as configured in [Branding and Customization](/white-lable/branding-customization/). All automated messages sent through the platform carry the agency's sender identity, not GoHighLevel's.
 
 ---
 
@@ -40,7 +44,7 @@ Client communication within the platform operates under the agency's brand as co
 
 The master account provides visibility across all client sub-accounts. Agencies monitor account activity, automation performance, and engagement metrics without logging into each sub-account individually.
 
-Performance data aggregated across accounts feeds into the dashboards documented in [Reporting and Analytics](reporting-analytics). Review activity across client accounts is tracked through [Reputation Management Tools](reputation-management). Appointment and calendar activity is visible through the [Appointment Scheduling System](appointment-scheduling).
+Performance data aggregated across accounts feeds into the dashboards documented in [Reporting and Analytics](/white-lable/reporting-analytics/). Review activity across client accounts is tracked through [Reputation Management Tools](/white-lable/reputation-management/). Appointment and calendar activity is visible through the [Appointment Scheduling System](/white-lable/appointment-scheduling/).
 
 ---
 
@@ -48,33 +52,31 @@ Performance data aggregated across accounts feeds into the dashboards documented
 
 The sub-account model supports agency growth without proportional increases in administrative overhead. Adding a new client does not require new software, new logins, or new infrastructure. The agency applies existing templates and the new account is operational.
 
-Billing for new client accounts is managed through [Billing and Pricing Management](billing-pricing). Content scheduling for client social accounts is handled through the [Social Planner](social-planner). Client-facing AI chat and lead capture tools are configured through [AI Agents](ai-agents). Third-party tool connections for individual client accounts are managed through [Integrations and API Capabilities](integrations).
+Billing for new client accounts is managed through [Billing and Pricing Management](/white-lable/billing-pricing/). Content scheduling for client social accounts is handled through the [Social Planner](/white-lable/social-planner/). Client-facing AI chat and lead capture tools are configured through [AI Agents](/white-lable/ai-agents/). Third-party tool connections for individual client accounts are managed through [Integrations and API Capabilities](/white-lable/integrations/).
 
 ---
 
-Agencies looking to centralize client account operations under one platform can access the client management system [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
-
-**Continue to** [Billing and Pricing](billing-pricing)
+**Continue to** [Billing and Pricing](/white-lable/billing-pricing/)
 
 ---
 
 ## Navigation
 
-- [Overview](overview)
-- [Branding and Customization](branding-customization)
-- [Client Management](client-management)
-- [Billing and Pricing](billing-pricing)
-- [Marketing Automation](marketing-automation)
-- [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
-- [Appointment Scheduling](appointment-scheduling)
-- [Reputation Management](reputation-management)
-- [Reporting and Analytics](reporting-analytics)
-- [Team and Permissions](team-permissions)
-- [Integrations](integrations)
-- [Social Planner](social-planner)
-- [AI Agents](ai-agents)
+- [Overview](/white-lable/overview/)
+- [Branding and Customization](/white-lable/branding-customization/)
+- [Client Management](/white-lable/client-management/)
+- [Billing and Pricing](/white-lable/billing-pricing/)
+- [Marketing Automation](/white-lable/marketing-automation/)
+- [CRM and Pipelines](/white-lable/crm-pipelines/)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
+- [Appointment Scheduling](/white-lable/appointment-scheduling/)
+- [Reputation Management](/white-lable/reputation-management/)
+- [Reporting and Analytics](/white-lable/reporting-analytics/)
+- [Team and Permissions](/white-lable/team-permissions/)
+- [Integrations](/white-lable/integrations/)
+- [Social Planner](/white-lable/social-planner/)
+- [AI Agents](/white-lable/ai-agents/)
 
 ---
 
-[Disclaimer](legal-info) | [About](about)
+[Disclaimer](/white-lable/legal-info/) | [About](/white-lable/about/)
