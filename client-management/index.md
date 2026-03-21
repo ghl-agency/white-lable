@@ -1,5 +1,5 @@
 ---
-title: Client Management – March 2026
+title: GoHighLevel Client Management – March 2026
 ---
 
 # Client Management – March 2026
