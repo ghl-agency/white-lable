@@ -1,5 +1,5 @@
 ---
-title: Funnel and Landing Page Builder – March 2026
+title: GoHighLevel Funnel and Landing Page Builder – March 2026
 ---
 
 # Funnel and Landing Page Builder – March 2026
