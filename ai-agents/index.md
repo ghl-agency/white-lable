@@ -61,7 +61,7 @@ AI agents connect to every relevant platform module. Review request sequences in
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
