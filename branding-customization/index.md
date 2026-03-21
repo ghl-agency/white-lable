@@ -67,7 +67,7 @@ Agencies ready to deploy their own branded CRM platform can access the white lab
 - [Billing and Pricing](billing-pricing)
 - [Marketing Automation](marketing-automation)
 - [CRM and Pipelines](crm-pipelines)
-- [Funnels and Landing Pages](funnels-landing-pages)
+- [Funnels and Landing Pages](/white-lable/funnels-landing-pages/)
 - [Appointment Scheduling](appointment-scheduling)
 - [Reputation Management](reputation-management)
 - [Reporting and Analytics](reporting-analytics)
