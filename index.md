@@ -47,6 +47,8 @@ Agencies configure the platform once. Workflows, automations, templates, and pip
 
 The White Label structure separates the agency's operational environment from each client's sub-account. Clients access only their own data. The agency retains full administrative control across the entire account portfolio.
 
+Agencies interested in the GoHighLevel White Label platform can explore the platform’s white label version [here](https://www.gohighlevel.com/?fp_ref=smetrix28).
+
 ---
 
 **Continue to** [Branding and Customization](branding-customization)
