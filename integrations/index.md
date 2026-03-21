@@ -67,7 +67,7 @@ Integrations extend every platform module. External data flowing into the CRM tr
 
 ## Navigation
 
-- [Overview](/white-lable/overview/)
+- [Overview](/white-lable/)
 - [Branding and Customization](/white-lable/branding-customization/)
 - [Client Management](/white-lable/client-management/)
 - [Billing and Pricing](/white-lable/billing-pricing/)
