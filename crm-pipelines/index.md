@@ -1,5 +1,5 @@
 ---
-title: CRM and Pipeline Management – March 2026
+title: GoHighLevel CRM and Pipeline Management – March 2026
 ---
 
 # CRM and Pipeline Management – March 2026
