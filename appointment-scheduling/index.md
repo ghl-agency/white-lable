@@ -2,7 +2,7 @@
 title: GoHighLevel Appointment Scheduling System – March 2026
 ---
 
-# Appointment Scheduling System – March 2026
+# GoHighLevel Appointment Scheduling System – March 2026
 
 Agencies managing appointment-based clients deal with a consistent operational problem. Booking links live in one tool, confirmation emails go out from another, reminders require manual setup, and no-shows occur because the follow-up system is disconnected from the calendar. GoHighLevel White Label includes a native appointment scheduling system that handles booking, confirmation, and automated reminders inside the same platform running all other client operations, available through the [white label appointment and calendar system](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
