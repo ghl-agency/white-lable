@@ -2,7 +2,7 @@
 title: GoHighLevel Integrations and API Capabilities – March 2026
 ---
 
-# Integrations and API Capabilities – March 2026
+# GoHighLevel Integrations and API Capabilities – March 2026
 
 Agencies running client operations across platforms that do not communicate with each other create manual data transfer workflows that break under scale. Contact records entered in one system do not appear in another. Automation triggers fire without the data they need. Revenue gets attributed incorrectly because tools operate in isolation. GoHighLevel White Label includes native integrations and a full API that connects the platform to external tools agencies and clients already use, accessible through the [white label integration and API platform](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
