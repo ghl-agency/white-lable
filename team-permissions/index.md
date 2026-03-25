@@ -2,7 +2,7 @@
 title: GoHighLevel Team and Permission Controls – March 2026
 ---
 
-# Team and Permission Controls – March 2026
+# GoHighLevel Team and Permission Controls – March 2026
 
 Agencies adding team members and client users to a shared platform without structured access controls create data exposure and operational risk. A team member with access to the wrong sub-account, or a client user who can modify automations the agency configured, introduces problems that compound as the agency scales. GoHighLevel White Label includes a native role and permission system that controls exactly what each user can access and modify across the entire platform, available through the [white label team and access control system](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
