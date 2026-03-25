@@ -2,7 +2,7 @@
 title: GoHighLevel CRM and Pipeline Management – March 2026
 ---
 
-# CRM and Pipeline Management – March 2026
+# GoHighLevel CRM and Pipeline Management – March 2026
 
 Agencies tracking client leads across spreadsheets, email threads, and disconnected CRM tools lose visibility into where contacts stand and what actions are required. Deals stall, follow-ups get missed, and revenue that entered the pipeline never closes. GoHighLevel White Label includes a native CRM and pipeline system that organizes every contact and deal stage inside the same environment where campaigns and automations run, accessible through the [white label CRM and pipeline system](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
