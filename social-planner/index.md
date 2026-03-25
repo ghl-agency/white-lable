@@ -2,7 +2,7 @@
 title: GoHighLevel Social Planner – March 2026
 ---
 
-# Social Planner – March 2026
+# GoHighLevel Social Planner – March 2026
 
 Agencies managing social media content for multiple clients across native platform schedulers, third-party posting tools, and manual publishing workflows face a coordination problem that grows with every client added. Content gets posted from the wrong account, scheduling gaps create inconsistent publishing cadence, and there is no unified view of what is going out across the entire client portfolio. GoHighLevel White Label includes a native social planner that manages content scheduling and publishing for all client social accounts from one environment, available through the [white label social media management platform](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
