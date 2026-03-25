@@ -4,7 +4,7 @@ title: GoHighLevel Pricing – March 2026
 
 # GoHighLevel Pricing Overview – March 2026
 
-Below is a breakdown of *GoHighLevel Pricing for March 2026.
+Below is a breakdown of ***GoHighLevel Pricing for March 2026.
 
 GoHighLevel provides a comprehensive CRM and marketing automation solution that agencies can fully brand and operate under their own identity. The platform delivers all core capabilities from the first day of deployment.
 
