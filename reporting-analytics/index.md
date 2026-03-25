@@ -2,7 +2,7 @@
 title: GoHighLevel Reporting and Analytics – March 2026
 ---
 
-# Reporting and Analytics – March 2026
+# GoHighLevel Reporting and Analytics – March 2026
 
 Agencies reporting client performance across disconnected tools spend significant time pulling data from multiple sources, formatting it manually, and delivering reports that are already outdated by the time the client receives them. GoHighLevel White Label includes a native reporting and analytics system that aggregates performance data from every platform module into a single dashboard environment, accessible through the [white label reporting and analytics dashboard](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
