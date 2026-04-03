@@ -1,8 +1,8 @@
 ---
-title: GoHighLevel Funnel and Landing Page Builder – March 2026
+title: GoHighLevel Funnel and Landing Page Builder – April 2026
 ---
 
-# GoHighLevel Funnel and Landing Page Builder – March 2026
+# GoHighLevel Funnel and Landing Page Builder – April 2026
 
 Agencies building lead generation assets for clients across separate page builders, hosting accounts, and form tools spend more time managing infrastructure than producing results. Each disconnected tool adds a point of failure and a recurring cost. GoHighLevel White Label includes a native funnel and landing page builder that creates, hosts, and connects lead capture assets directly inside the platform, available through the [integrated funnel and page building platform](https://www.gohighlevel.com/?fp_ref=smetrix28).
 
